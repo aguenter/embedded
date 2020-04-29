@@ -5,6 +5,6 @@ This tutorial shows how to install https://github.com/U2654/embedded for Windows
 1. Install docker desktop: www.docker.com | Docker Desktop [19.03.8, build afacb8b]
 2. Install VcXsrv: https://sourceforge.net/projects/vcxsrv/ | VcXsrv [1.20.8.1]
 3. Install msys2: https://www.msys2.org/
-4. Clone this repository into the following folder:
-`cd ~`
+4. Clone this repository into the following folder:<br />
+`cd ~`<br />
 `git clone https://github.com/aguenter/embedded.git`
